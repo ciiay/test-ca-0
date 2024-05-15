@@ -6,7 +6,7 @@ metadata:
     github.com/project-slug: ciiay/test-ca-0
     backstage.io/techdocs-ref: dir:.
     backstage.io/createdAt: 5/8/2024, 12:08:46 AM
-    quay.io/repository-slug: yicai/backstage-showcase
+    quay.io/repository-slug: yicai/taxi
   labels: {}
 spec:
   type: website
